@@ -1,0 +1,11 @@
+{
+  "name": "reproduction-nitro-proxy-error",
+  "private": true,
+  "scripts": {
+    "dev": "nitro dev",
+    "build": "nitro build"
+  },
+  "devDependencies": {
+    "nitropack": "^2.5.2"
+  }
+}
