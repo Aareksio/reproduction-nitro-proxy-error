@@ -23,3 +23,9 @@ try {
   navigateTo('/404')
 }
 ```
+
+### Expected result
+
+Fully proxied response, in this reproduction https://github.com/404
+
+See http://localhost:3000/404 ([source](https://github.com/Aareksio/reproduction-nitro-proxy-error/blob/main/routes/404.ts)) for workaround which does exactly that
